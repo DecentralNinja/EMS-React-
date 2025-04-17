@@ -5,6 +5,9 @@ Welcome to my **Employee Management System** project!
 This application has been built entirely from scratch, with a strong focus on **functionality** as compared to design. Every component has been custom-coded to showcase a hands-on  learning experience and complete control over the app’s features.
 ---
 
+I’ve deployed the project using Netlify so you can check it out from a UI perspective here:
+🔗 https://maazems.netlify.app/
+
 ### 🔐 Login Credentials
 
 #### 👉 Admin Login  
